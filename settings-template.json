@@ -1,0 +1,47 @@
+{
+  "devUserInfo": {
+    "devUserID": "",
+    "devUserNickname": ""
+  },
+  "botVersions": {
+    "botCore": "1.0.2",
+    "botChaOS": "2.0b1",
+    "botCommander": "1.0",
+    "botEventHandlingSystem": "2.0",
+    "botCyclops": "1.5.2",
+    "botCodename": "Allium",
+    "plugs": {
+      "plgImaginator": "1.0",
+      "plgPSDH": "1.0",
+      "plgReddit": "1.0",
+      "plgBirthday": "1.0",
+      "plgPixelart": "1.0"
+    }
+  },
+  "libRole": {
+    "roleAutoToggle": false,
+    "roleAutoRoleID": "",
+    "roleToggleRoles": {
+      "roleNames": [],
+      "roleIDs": []
+    }
+  },
+  "libRoot": {
+    "announceChannelID": "",
+    "autoBanToggle": false,
+    "autoBanRules": []
+  },
+  "libSetup": {
+    "botAvatarFileURL": "resources/beta1.jpg",
+    "accentColor": "#B57AB8",
+    "activity": "",
+    "activityType": "playing"
+  },
+  "plugs": {
+    "plgImaginator": true,
+    "plgPSDH": false,
+    "plgReddit": true,
+    "plgBirthday": true,
+    "plgPixelart": false
+  }
+}

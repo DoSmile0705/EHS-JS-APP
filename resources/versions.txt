@@ -1,0 +1,5 @@
+A1 > African Daisy [#77516d]
+a2 > Agapanthus [#60646f]
+a3 > Ageratum [#8E8CC0]
+a4 > Alchemilla [#4C7231]
+b1 > Allium [#B57AB8]
